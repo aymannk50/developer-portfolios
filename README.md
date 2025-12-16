@@ -263,6 +263,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ayush Kumar Gupta](https://ayyush08.vercel.app) [Full-Stack Developer]
 - [Ayush Kumar](https://ayushj.is-a.dev)
 - [Ayush Nighoskar](https://ayushn.netlify.app)
+- [Ayman Naeem](https://1steg.com) [Web Designer]
 - [Azaan Suhail](https://personal-portfolio-website-seven-teal.vercel.app)
 - [Azel](https:omargpax.vercel.app) [Software Developer - Full Stack]
 
